@@ -1,0 +1,15 @@
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorsePlayer\x64\Debug\RemorseEngine.deps.json
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorsePlayer\x64\Debug\RemorseEngine.runtimeconfig.json
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorsePlayer\x64\Debug\RemorseEngine.runtimeconfig.dev.json
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorsePlayer\x64\Debug\RemorseEngine.dll
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorsePlayer\x64\Debug\ref\RemorseEngine.dll
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorsePlayer\x64\Debug\RemorseEngine.pdb
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.csprojAssemblyReference.cache
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.AssemblyInfoInputs.cache
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.AssemblyInfo.cs
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.csproj.CoreCompileInputs.cache
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.dll
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\ref\RemorseEngine.dll
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.pdb
+E:\Imandana\Project\CSharp\EmbedDotNet\hosting\RemorseEngineScripting\src\RemorseEngine\obj\Debug\RemorseEngine.genruntimeconfig.cache

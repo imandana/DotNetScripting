@@ -1,12 +1,4 @@
-# DotNetScripting
-C# Scripting with .Net 5
-
-Still On Work
-
-#Sample
-
-```cpp
-using System;
+﻿using System;
 
 using RemorseEngine;
 
@@ -40,4 +32,3 @@ namespace MyGame
 		////// Your Code Goes Here
 	}
 }
-```
