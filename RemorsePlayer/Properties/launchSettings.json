@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RemorsePlayer": {
+      "commandName": "Executable",
+      "executablePath": "$(SolutionDir)\\..\\bin\\$(Configuration)\\RemorsePlayer.exe",
+      "nativeDebugging": true
+    }
+  }
+}
